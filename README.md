@@ -4,19 +4,19 @@ Java demo project
 
 Management Information System (MIS):
 
-> Role-Based Access Control (RDBC): SuperAdmin/Admin/User/..
-> User Management
-> Data Management
-> Data Analytics Diagram
-> Admin portal
-> User portal
+1. Role-Based Access Control (RDBC): SuperAdmin/Admin/User/..
+2. User Management
+3. Data Management
+4. Data Analytics Diagram
+5. Admin portal
+6. User portal
 
-1. JDBC Sql-server 2016
+7. JDBC Sql-server 2016
 
-2. Object-oriented programming
+8. Object-oriented programming
 
-3. Java.io
+9. Java.io
 
-4. Java.swing
+10. Java.swing
 
-5. Java.sql
+11. Java.sql
