@@ -1,11 +1,22 @@
 # java-mis-system
 
-JDBC Sql-server 2016
+Java demo project
 
-Object-oriented programming
+Management Information System (MIS):
 
-Java.io
+> Role-Based Access Control (RDBC): SuperAdmin/Admin/User/..
+> User Management
+> Data Management
+> Data Analytics Diagram
+> Admin portal
+> User portal
 
-Java.swing
+1. JDBC Sql-server 2016
 
-Java.sql
+2. Object-oriented programming
+
+3. Java.io
+
+4. Java.swing
+
+5. Java.sql
